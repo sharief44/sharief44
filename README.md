@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 Full Stack Developer (MERN + Java Spring Boot)
+- 💻 Full Stack Developer (Java Spring Boot)
 - 🔥 Strong in DSA & Backend Development
 - 📦 Built real-world apps (Chat App, User Management System)
 - 🎯 Currently focusing on **System Design + Backend Scaling**
@@ -69,7 +69,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/sharief44/sharief44/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/sharief44/sharief44/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
