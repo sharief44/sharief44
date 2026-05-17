@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 💻 Full Stack Developer (Java Spring Boot)
 - 🔥 Strong in DSA & Backend Development
-- 📦 Built real-world apps (Chat App, User Management System)
+- 📦 Built real-world apps (User Management System,Advanced Job Tracker System,Digital Wallet Banking System )
 - 🎯 Currently focusing on **System Design + Backend Scaling**
 - ⚡ Always learning & improving
 
@@ -42,10 +42,10 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Chat App (MERN)
-- Real-time messaging application  
-- WebSocket-based communication  
-- Authentication & secure messaging  
+### 🔹 Digital Wallet Banking System(Springboot + React)
+- REST APIs with JWT Authentication 
+- Role-based access control  
+- PostgreSQL integration  
 
 ### 🔹 User Management System (Spring Boot)
 - REST APIs with JWT Authentication  
